@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImcCalculator</string>
+    <string name="under_weight">Seu imc é %d, o seu estado é abaixo do peso</string>
+</resources>
